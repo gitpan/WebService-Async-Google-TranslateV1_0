@@ -1,10 +1,6 @@
 use strict;
 use warnings;
 use Test::More 'no_plan';
-use Test::Deep;
-use Test::TCP;
-use Plack::Loader;
-use Plack::Request;
 use Data::Section::Simple qw(get_data_section);
 use WebService::Async::Google::TranslateV1_0;
 

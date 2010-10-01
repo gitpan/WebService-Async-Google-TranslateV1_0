@@ -1,4 +1,4 @@
-#!/opt/perl/bin/perl
+#!perl
 use warnings;
 use strict;
 use AnyEvent;

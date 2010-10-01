@@ -13,7 +13,7 @@ use WebService::Async::Parser::JSON;
 use WebService::Async::Converter::Function;
 
 use 5.008008;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use constant TRANSLATION_API =>
   'http://ajax.googleapis.com/ajax/services/language/translate';
