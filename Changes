@@ -1,5 +1,8 @@
 Revision history for Perl extension WebService::Async::Google::TranslateV1_0
 
+0.03    Sun Oct 3 11:53:00 2010
+        - fixed Makefile.PL
+
 0.02    Wed Oct 1 19:44:03 2010
         - fixed tests
 

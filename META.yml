@@ -20,10 +20,10 @@ no_index:
     - t
     - xt
 requires:
-  WebService::Async: 0
+  Text::MicroTemplate: 0
   perl: 5.8.8
 resources:
   homepage: http://github.com/keroyonn/p5-WebService-Async-Google-TranslateV1_0/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/keroyonn/p5-WebService-Async-Google-TranslateV1_0.git
-version: 0.02
+version: 0.03
